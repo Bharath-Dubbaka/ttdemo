@@ -9,6 +9,7 @@ import ZoomGallery from "@/components/ZoomGallery";
 import InfiniteTextMoveOnScroll from "@/components/InfiniteTextMoveOnScroll";
 import Image from "next/image";
 import ParalaxSlideGallery from "@/components/ParalaxSlideGallery";
+import SplitVignette from "@/components/splitvignette/SplitVignette";
 
 export default function Home() {
    return (
@@ -17,14 +18,16 @@ export default function Home() {
 
          {/* Errors causing heavy load on runtime */}
          {/* <InfiniteTextMoveOnScroll /> */}
-
-         <ParalaxSlideGallery />
-         <PerspectiveSlide />
+         <SplitVignette />
          <ParallaxSlider />
+         <ParalaxSlideGallery />
+         <BgvParalax />
+
          <ZoomGallery />
          <TeamSection />
+         <PerspectiveSlide />
+
          <GsapScroll />
-         <BgvParalax />
 
          <ContactSection />
       </main>
