@@ -33,19 +33,26 @@ export default function AboutSection() {
                {/* Structured Text Box */}
                <div className="bg-white/[0.02] border border-white/[0.06] rounded-xl p-8 space-y-4 backdrop-blur-sm">
                   <p className="text-sm sm:text-base text-neutral-400 font-light leading-relaxed">
-                     DBK tattoo studio and gallery was founded in 2012. Since
-                     then, we have grown to be the leading tattoo studio in
-                     Latvia with a unique, professional and individual style.
+                     DBK started as a photographer and videographer, then spent
+                     years deep in US IT recruiting before teaching myself to
+                     code after hours. Since then I've built and shipped
+                     products, run SEO campaigns that hit #1 on Google, and
+                     grown brands from zero — as a developer who also thinks
+                     like a marketer.
                   </p>
                   <p className="text-sm sm:text-base text-neutral-400 font-light leading-relaxed">
-                     Our studio provides safe and custom-made design solutions
-                     with a fresh, developing style that has our unique
-                     signature.
+                     I work across the full stack — React, Next.js, Node.js —
+                     building live products end to end, from backend logic and
+                     payments to the interface someone actually uses. Every
+                     project ships with the technical foundation to be found,
+                     not just built.
                   </p>
                   <p className="text-sm sm:text-base text-neutral-400 font-light leading-relaxed">
-                     Our team includes diverse artists with an ambition to grow
-                     their personal style and the hunger to find new challenges
-                     in the minds of our customers.
+                     What drives me is range over routine — chasing whatever
+                     teaches me the most, then building something real with it.
+                     That's taken me from a café's daily operations to SaaS
+                     products with paying users, and I'm always hunting for the
+                     next thing worth building.
                   </p>
                </div>
 
