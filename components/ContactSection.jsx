@@ -63,7 +63,7 @@ export default function ContactSection() {
                     Write Us
                   </h4>
                   <p className="text-sm text-neutral-400 font-light">
-                    info@gidatattoo.com
+                    info@dbk
                   </p>
                 </div>
               </div>
@@ -155,7 +155,7 @@ export default function ContactSection() {
           <div className="lg:col-span-4 w-full h-[330px] rounded-xl overflow-hidden border border-white/10 relative group">
             {/* Embedded maps iframe styled cleanly for a dark interface */}
             <iframe
-              title="Gida Tattoo Location"
+              title="DBK Tattoo Location"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2175.760155554366!2d24.120935515783305!3d56.95287668089155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46eecfd3db4015c7%3A0x64bf2fa7908b8b0!2zVMTTcmJhdGFzIGllbGEgNDkvNTEsIENlbnRyYSByYWpvbnMsIFLEqGdhLCBMVi0xMDExLCBMYXR2aWE!5e0!3m2!1sen!2sus!4v1689000000000!5m2!1sen!2sus"
               className="w-full h-full grayscale invert contrast-125 opacity-80 group-hover:opacity-100 transition duration-300"
               style={{ border: 0 }}
